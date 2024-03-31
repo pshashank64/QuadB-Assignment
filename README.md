@@ -38,10 +38,3 @@ This is a simple To-Do application built using React and Redux. It allows users 
   - `components/`: Contains React components.
   - `redux/`: Contains Redux actions, reducers, and store configuration.
 
-## Contributing
-
-Contributions are welcome! If you find any bugs or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
